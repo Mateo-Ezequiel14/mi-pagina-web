@@ -1,0 +1,29 @@
+body {
+     background-color: lightblue;
+     font-family: Arial, sans-serif;
+     padding: 30px;
+     }
+
+h1 {
+    color: black;
+    text-align: center;
+    }
+
+button {
+    display: inline-block;
+    padding: 12px 18px;
+    margin: 5px;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: bold;
+     }
+
+img {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 15px auto;
+    border-radius: 10px;
+    }
+
+      
